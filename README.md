@@ -1,11 +1,7 @@
-[![MasterHead](https://i.etsystatic.com/16458179/r/il/dd7f15/3879564114/il_570xN.3879564114_b09g.jpg)](https://svashishta1.io)
 <h1 align="center">Hi 👋, I'm Vashishta Sarabu</h1>
 <h3 align="center">AI Enthusiast: Exploring the Future of Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svashishta1&label=Profile%20views&color=0e75b6&style=flat" alt="svashishta1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svashishta1" alt="svashishta1" /></a> </p>
 
 - 🔭 I’m currently working on **Deeplearning projects**
 
