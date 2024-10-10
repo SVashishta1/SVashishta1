@@ -1,3 +1,4 @@
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/042/972/782/non_2x/topographic-map-pattern-background-abstract-mountain-terrain-map-background-with-abstract-shape-line-texture-design-illustration-for-wall-art-fabric-packaging-web-banner-wallpaper-vector.jpg)](https://svashishta1.io)
 <h1 align="center">Hi 👋, I'm Vashishta Sarabu</h1>
 <h3 align="center">AI Enthusiast: Exploring the Future of Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
