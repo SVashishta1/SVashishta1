@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sarabu.vs@gmail.com**
 
-- 📄 Know about my experiences [Profile](https://cv-pearl-mu.vercel.app/)
+- 📄 Know about my experiences [Profile](https://www.linkedin.com/in/s-vashishta-ln/)
 
 - ⚡ Fun fact **Code is like an octopus—lots of legs, and sometimes it has a mind of its own!**
 
